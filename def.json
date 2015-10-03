@@ -1,0 +1,19 @@
+{
+	"ui":
+	[
+		{"en": "Calculate", "pt": "Calcular"},
+		{"en": "Defense:", "pt": "Defesa:"},
+		{"en": "Raw Damage:", "pt": "Dano Bruto:"},
+		{"en": "Normal Defense:", "pt": "Defesa Normal:"},
+		{"en": "Expert Defense:", "pt": "Defesa Expert:"},
+		{"en": "Normal Dmg Received:", "pt": "Dano Recebido Normal:"},
+		{"en": "Expert Dmg Received:", "pt": "Dano Recebido Expert:"},
+		{"en": "Game Version: 1.3.0.8", "pt": "Versão do Jogo: 1.3.0.8"},
+		{"en": "Development", "pt": "Desenvolvimento"},
+		{"en": "QC! Team", "pt": "QC! Team"},
+		{"en": "Terraria DefCalc", "pt": "Terraria DefCalc"},
+		{"en": "Terraria Defense Calculator", "pt": "Calculadora de Defesa do Terraria"},
+		{"en": "en", "pt": "pt"},
+		{"en": "Learn More!", "pt": "Aprenda Mais!"}
+	]
+}
